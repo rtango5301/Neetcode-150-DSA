@@ -2,6 +2,8 @@
 # Optimise - Sort the array and compare adjacent values, still O(nlogn) and O(1)
 # Most optimal solution using HashSet(set with hashing) - Time Complexity: O(n) , Space Complexity: O(n) 
 
+# Hashmap = hashtable = dictionary and sets and hashsets are the same thing 
+
 
 def containsDuplicate(nums):
     hashset = set()
