@@ -29,3 +29,5 @@ class Solution:
     
     #SOLUTION 4 : use the legendary python sorting function
         return sorted(s) == sorted(t)
+    
+    # Must remember to always try 2-3 approaches per problem 
